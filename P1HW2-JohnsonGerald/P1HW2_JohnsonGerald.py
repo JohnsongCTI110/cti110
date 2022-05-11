@@ -1,8 +1,8 @@
 
 #Finding out the Number of Pizzas I need to order for my group of Students.
-#February 23, 2022
+#5/10/22
 #CTI-110 P1HW2-Pizza Order
-#Ricardo Rivera
+#Gerald Johnson
 #
 ##########################Pseudo-Code################################
 # Display "Enter number of students to order pizza for."
